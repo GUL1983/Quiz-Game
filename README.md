@@ -4,3 +4,5 @@ Built a dynamic quiz game from scratch using the holy trinity of front-end devel
 
 Think you know your stuff? Put your knowledge to the test with my interactive quiz game. Get ready for instant feedback and a final score that doesn't lie.
 No server. No databases.
+
+GAME LINK: https://phenomenal-genie-7965a9.netlify.app/
